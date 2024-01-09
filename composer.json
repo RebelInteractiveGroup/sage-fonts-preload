@@ -1,5 +1,5 @@
 {
-  "name": "mwdelaney/sage-fonts-preload",
+  "name": "rebelinteractivegroup/sage-fonts-preload",
   "description": "Automatically preload fonts from the Sage mix manifest",
   "keywords": ["wordpress", "sage", "fonts", "preload"],
   "homepage": "https://github.com/MWDelaney/sage-fonts-preload",
